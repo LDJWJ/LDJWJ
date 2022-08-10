@@ -28,6 +28,9 @@
  * 멋쟁이 사자처림 13th 데이터 실전 과정 - K-Digital Course [이동하기](https://github.com/LDJWJ/LikeLion_13th_DataCourse) 
  * SBA 실전 데이터 기초부터 프로젝트까지 - [이동하기](https://github.com/LDJWJ/00_SBA01_BigData) 
 
+### 오늘의 학습 내용 
+🌱 내용 : 학습 내용을 간단하게 정리-
+😄 해당 저장소로 [이동하기](https://github.com/LDJWJ/Today_Schedule) 
 
 <!--
 **LDJWJ/LDJWJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
