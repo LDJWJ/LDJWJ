@@ -13,7 +13,7 @@
 😄 해당 저장소로 [이동하기](https://github.com/LDJWJ/dataAnalysis)  
 
 ### 데이터가 뛰어노는 AI 놀이터, 캐글
-🌱 내용 : 캐글 중급으로 가기 위한 데이터 분석 서적 <br>
+🌱 내용 : 캐글 중급으로 가기 위한 데이터 분석 서적(번역)<br>
 😄 해당 저장소로 [이동하기](https://github.com/LDJWJ/kagglebook)  
 
 ### 잡다한 정보 수집 
