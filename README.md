@@ -8,6 +8,10 @@
 ⚡ 내용 : 파이썬 라이브러리를 위한 파이썬 기본 수업 <br>
 😄 해당 저장소로 [이동하기](https://github.com/LDJWJ/CLASS_PY_LIB_START) 
 
+### 파이썬 라이브러리 LevelUp - 클래스
+⚡ 내용 : 파이썬 라이브러리 LevelUp 수업 <br>
+😄 해당 저장소로 [이동하기](https://github.com/LDJWJ/CLASS_PY_LIB_LEVELUP) 
+
 ### 머신러닝 클래스
 🔭 내용 : 머신러닝을 시작하는 이들을 위한 머신러닝 기본부터 초중급까지의 수업 <br>
 🤔 해당 저장소로 [이동하기](https://github.com/LDJWJ/ML_Basic_Class)  
