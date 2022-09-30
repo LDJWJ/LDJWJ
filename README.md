@@ -34,7 +34,8 @@
 
 ### 프로젝트 살펴보기 
 🌱 내용 : 수업 중의 학생들 파일럿 프로젝트 <br>
- * 구름2기 - KICT 22/07/04~22/08/29 [이동하기](https://github.com/LDJWJ/Goorm_2nd_DataCourse)  
+ * 구름&카카오3기 - KICT 22/09/05 ~ 22/11/04 [이동하기](https://github.com/LDJWJ/Goorm_3rd_DataCourse) 
+ * 구름&카카오2기 - KICT 22/07/04 ~ 22/08/29 [이동하기](https://github.com/LDJWJ/Goorm_2nd_DataCourse)  
  * 2022년 데이터 분석 내용 정리 [이동하기](https://github.com/LDJWJ/MyDataAnalysis_2022)
  * 멋쟁이 사자처림 10th 데이터 실전 과정 - K-Digital Course [이동하기](https://github.com/LDJWJ/LikeLion_10th_DataCourse) 
  * 멋쟁이 사자처림 13th 데이터 실전 과정 - K-Digital Course [이동하기](https://github.com/LDJWJ/LikeLion_13th_DataCourse) 
