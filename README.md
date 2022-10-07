@@ -1,5 +1,7 @@
 ## Daniel's 흔적
 
+:disappointed:
+
 ### 파이썬 시작하기 - 클래스
 ⚡ 내용 : 파이썬 왕초보를 위한 파이썬 기본 수업 <br>
 😄 해당 저장소로 [이동하기](https://github.com/LDJWJ/CLASS_PYTHON_START) 
