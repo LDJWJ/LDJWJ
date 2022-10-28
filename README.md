@@ -39,6 +39,8 @@
  * 구름&카카오3기_프로젝트반 - KICT 22/09/05 ~ 22/11/04 [이동하기](https://github.com/LDJWJ/Goorm_3rd_DataCourse) 
  * 구름&카카오2기_프로젝트반 - KICT 22/07/04 ~ 22/08/29 [이동하기](https://github.com/LDJWJ/Goorm_2nd_DataCourse)  
  * 2022년 데이터 분석 내용 정리 [이동하기](https://github.com/LDJWJ/MyDataAnalysis_2022)
+ 
+
  * 멋쟁이 사자처림 10th 데이터 실전 과정 - K-Digital Course [이동하기](https://github.com/LDJWJ/LikeLion_10th_DataCourse) 
  * 멋쟁이 사자처림 13th 데이터 실전 과정 - K-Digital Course [이동하기](https://github.com/LDJWJ/LikeLion_13th_DataCourse) 
  * SBA 실전 데이터 기초부터 프로젝트까지 - [이동하기](https://github.com/LDJWJ/00_SBA01_BigData) 
