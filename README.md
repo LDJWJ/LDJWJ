@@ -45,7 +45,7 @@
  * 멋쟁이 사자처림 13th 데이터 실전 과정 - K-Digital Course [이동하기](https://github.com/LDJWJ/LikeLion_13th_DataCourse) 
  * SBA 실전 데이터 기초부터 프로젝트까지 - [이동하기](https://github.com/LDJWJ/00_SBA01_BigData) 
 
-### 잡다한 정보 수집 
+### 다양한 정보 수집 
 🌱 내용 : 학습 링크, 데이터 셋 URL, 대회 정보 등 <br>
 😄 해당 저장소로 [이동하기](https://github.com/LDJWJ/UPGRADE) 
 
