@@ -57,6 +57,7 @@
  * 편안함을 주는 첼로 브금 [이동](https://www.youtube.com/watch?v=E4WWYyS3rXQ)
  * 가을에 듣는 명곡 [이동](https://www.youtube.com/watch?v=OA4xWoZ6Ygo)
  * 미술관에 온 듯🎻여유롭고 클래식한 피아노 연주곡(https://www.youtube.com/watch?v=_dn5vYN2GWY)
+ * 편안한 강아지 음악 - 심리안정 음악(https://www.youtube.com/watch?v=kqEpePJmv4I)
 
 <!--
 **LDJWJ/LDJWJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
