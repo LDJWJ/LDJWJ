@@ -8,6 +8,9 @@
 :gift: 책 내용 : 실습에 필요한 기본이 되는 문제 <br>
 :tada: 해당 책으로 [이동하기](https://wikidocs.net/book/7991)
 
+## ChatGPT를 활용한 미니 프로젝트
+ [이동](https://ldjwj.github.io/ChatGPT_Mini_Project/)
+
 ## 함께하는 CLASS 
 ### 파이썬 시작하기 - 클래스
 ⚡ 내용 : 파이썬 왕초보를 위한 파이썬 기본 수업 <br>
