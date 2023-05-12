@@ -38,16 +38,17 @@
 
 ### 프로젝트 살펴보기 
 🔍 내용: 수업 중의 학생들 파일럿 프로젝트
-
 | 프로젝트명 | 기간 | 링크 |
-| --- | --- | --- |
-| 구름&카카오4기_프로젝트반 | 22/10/17 ~ 22/12/09 | https://github.com/LDJWJ/Goorm_4_DataCourse |
-| 구름&카카오3기_프로젝트반 | 22/09/05 ~ 22/11/04 | https://github.com/LDJWJ/Goorm_3rd_DataCourse |
-| 구름&카카오2기_프로젝트반 | 22/07/04 ~ 22/08/29 | https://github.com/LDJWJ/Goorm_2nd_DataCourse |
-| 2022년 데이터 분석 내용 정리 | - | https://github.com/LDJWJ/MyDataAnalysis_2022 |
-| 멋쟁이 사자처림 10th 데이터 실전 과정 | - | https://github.com/LDJWJ/LikeLion_10th_DataCourse |
-| 멋쟁이 사자처림 13th 데이터 실전 과정 | - | https://github.com/LDJWJ/LikeLion_13th_DataCourse |
-| SBA 실전 데이터 기초부터 프로젝트까지 | - | https://github.com/LDJWJ/00_SBA01_BigData |
+| --- | --- | --- |  
+| 구름&카카오 23년도1기 | 23/04/24 ~ 23/05/31 | [이동](https://github.com/LDJWJ/Goorm_2023_DataCourse) |
+| 구름&카카오 4기 | 22/10/17 ~ 22/12/09 | [이동](https://github.com/LDJWJ/Goorm_4_DataCourse) |
+| 구름&카카오 3기 | 22/09/05 ~ 22/11/04 | [이동](https://github.com/LDJWJ/Goorm_3rd_DataCourse) |
+| 구름&카카오 2기 | 22/07/04 ~ 22/08/29 | [이동](https://github.com/LDJWJ/Goorm_2nd_DataCourse) |
+| 2022년 데이터 분석 내용 정리 | - | [이동](https://github.com/LDJWJ/MyDataAnalysis_2022) |
+| 멋쟁이 사자처림 10th 데이터 실전 과정 | - | [이동](https://github.com/LDJWJ/LikeLion_10th_DataCourse) |
+| 멋쟁이 사자처림 13th 데이터 실전 과정 | - | [이동](https://github.com/LDJWJ/LikeLion_13th_DataCourse) |
+| SBA 실전 데이터 기초부터 프로젝트까지 | - | [이동](https://github.com/LDJWJ/00_SBA01_BigData) |
+===========
 
 ### 다양한 정보 수집 
 🌱 내용 : 학습 링크, 데이터 셋 URL, 대회 정보 등 <br>
