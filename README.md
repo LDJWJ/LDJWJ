@@ -3,7 +3,7 @@
 ## [책] 데이터가 뛰어노는 AI 놀이터, 캐글
 📚 내용: 머신러닝 초보에서 캐글 초중급으로 가기 위한 데이터 분석 서적(번역)
 😄 해당 저장소로 [이동하기](https://github.com/LDJWJ/kagglebook)  
-
+   * 캐글 관련 내용 링크 [이동하기](https://github.com/LDJWJ/KaggleDataAnalysis)
 ## [책] 파이썬 기본부터 딥러닝입문하기 기본 300제 - ing
 🎁 책 내용: 실습에 필요한 기본이 되는 문제
 :tada: [해당 책으로 이동하기](https://wikidocs.net/book/7991)
