@@ -8,7 +8,7 @@
  * 🎁 책 내용: 실습에 필요한 기본이 되는 문제
  * :tada: [해당 책으로 이동하기](https://wikidocs.net/book/7991)
 
-### 가터 캐글 관련 내용 링크 [이동하기](https://github.com/LDJWJ/KaggleDataAnalysis)
+### 캐글 관련 내용 링크 [이동하기](https://github.com/LDJWJ/KaggleDataAnalysis)
 
 ## 함께하는 CLASS 
 
