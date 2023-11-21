@@ -25,7 +25,7 @@
 | 프로젝트명 | 기간 | 링크 |
 | --- | --- | --- |  
 | 구름&카카오 23년도1기 | 23/04/24 ~ 23/05/31 | [이동](https://github.com/LDJWJ/Goorm_2023_DataCourse) |
-| 구름&카카오 4기 | 22/10/17 ~ 22/12/09 | [이동](https://github.com/LDJWJ/Goorm_4_DataCourse) |
+| 구름&카카오 4기 | 22/10/17 ~ 22/12/09 | [이동](https://github.com/LDJWJ/Goorm_4th_DataCourse) |
 | 구름&카카오 3기 | 22/09/05 ~ 22/11/04 | [이동](https://github.com/LDJWJ/Goorm_3rd_DataCourse) |
 | 구름&카카오 2기 | 22/07/04 ~ 22/08/29 | [이동](https://github.com/LDJWJ/Goorm_2nd_DataCourse) |
 | 2022년 데이터 분석 내용 정리 | - | [이동](https://github.com/LDJWJ/MyDataAnalysis_2022) |
