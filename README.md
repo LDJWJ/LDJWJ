@@ -49,6 +49,9 @@
 🌱 내용 : 학습 내용을 간단하게 정리 <br>
 😄 해당 저장소로 [이동하기](https://github.com/LDJWJ/Today_Schedule) 
 
+### 기타 
+   내용 : [Timer](https://www.timeanddate.com/stopwatch/)
+
 ### 음악감상
  * 편안함을 주는 첼로 브금 [이동](https://www.youtube.com/watch?v=E4WWYyS3rXQ)
  * 가을에 듣는 명곡 [이동](https://www.youtube.com/watch?v=OA4xWoZ6Ygo)
