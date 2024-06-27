@@ -34,6 +34,8 @@
 | 멋쟁이 사자처림 13th 데이터 실전 과정 | - | [이동](https://github.com/LDJWJ/LikeLion_13th_DataCourse) |
 | SBA 실전 데이터 기초부터 프로젝트까지 | - | [이동](https://github.com/LDJWJ/00_SBA01_BigData) |
 ===========
+## 수업
+😄 [수업상태페이지](https://github.com/LDJWJ/ClassPage)
 
 ## ChatGPT를 활용한 미니 프로젝트
 🔗 [이동](https://ldjwj.github.io/ChatGPT_Mini_Project/)
