@@ -28,7 +28,7 @@
 🔍 내용: 수업 중의 학생들 파일럿 프로젝트
 | 프로젝트명 | 기간 | 링크 |
 | --- | --- | --- |  
-| ICT 2,3기 | 23/08 ~ 23/10/26 | [이동]([https://github.com/LDJWJ/Goorm_2023_DataCourse](https://github.com/LDJWJ/Goorm_2024_ICT23_allinOne)) |
+| ICT 2,3기 | 23/08 ~ 23/10/26 | [이동](https://github.com/LDJWJ/Goorm_2024_ICT23_allinOne) |
 | 구름&카카오 23년도1기 | 23/04/24 ~ 23/05/31 | [이동](https://github.com/LDJWJ/Goorm_2023_DataCourse) |
 | 구름&카카오 4기 | 22/10/17 ~ 22/12/09 | [이동](https://github.com/LDJWJ/Goorm_4th_DataCourse) |
 | 구름&카카오 3기 | 22/09/05 ~ 22/11/04 | [이동](https://github.com/LDJWJ/Goorm_3rd_DataCourse) |
