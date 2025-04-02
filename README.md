@@ -11,7 +11,7 @@
 <figure>
     <img src="https://github.com/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/image/bookcover_01.png" width=300 height=300>
 </figure>
- * [yes24](https://www.yes24.com/product/goods/143895983) [교보문고](https://product.kyobobook.co.kr/detail/S000216110478) [한빛미디어](https://www.hanbit.co.kr/store/books/look.php?p_code=B3097025728)
+[yes24](https://www.yes24.com/product/goods/143895983) [교보문고](https://product.kyobobook.co.kr/detail/S000216110478) [한빛미디어](https://www.hanbit.co.kr/store/books/look.php?p_code=B3097025728)
 
 
 ## [책] 파이썬 기본부터 딥러닝입문하기 기본 300제 - 작성중
