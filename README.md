@@ -9,7 +9,7 @@
  * 😄 설치 방법 및 책 소스 코드 [이동하기](https://github.com/LDJWJ/OpenAIGPTForPythonDevelopersFiles)
 
 <figure>
-    <img src="https://github.com/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/image/bookcover_01.png">
+    <img src="https://github.com/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/image/bookcover_01.png" width=300 height=300>
 </figure>
 
 
