@@ -34,6 +34,11 @@
 | 🔍📈 데이터 기본부터 실전프로젝트 마스터 | AI 기본 탐험하기 | [이동](https://rowan-sail-868.notion.site/596405bb93ca4ce0b343e7db617474c1?v=f00727c5997f4f0688e22d175b7bdbdd) |
 | 🎥🌟 유튜브 시작하기 | 유튜브 초보 첫걸음 | [이동](https://rowan-sail-868.notion.site/14a45e9c22194f9eaae3626d3015eab3?v=ce4b7a4d61454c349e33388458f9d77d) |
 
+### 프로그램
+| 프로젝트명 | 내용 | 링크 |
+| url 줄이기 | react를 활용한 url 줄이기 | https://ldjwj.github.io/url-shortener/ |  
+
+
 ### 프로젝트 살펴보기 
 🔍 내용: 수업 중의 학생들 파일럿 프로젝트
 | 프로젝트명 | 기간 | 링크 |
