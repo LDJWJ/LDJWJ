@@ -29,6 +29,7 @@
 | 🚀📈 파이썬 라이브러리 LevelUp - 클래스 | 파이썬 라이브러리 LevelUp 수업 | [이동](https://github.com/LDJWJ/CLASS_PY_LIB_LEVELUP) |
 | 📊📈 머신러닝 클래스 | 머신러닝을 시작하는 이들을 위한 머신러닝 기본부터 초중급까지의 수업 | [이동](https://github.com/LDJWJ/ML_Basic_Class) |
 | 🤖🎓 딥러닝 기본 클래스 | 딥러닝을 시작하는 이들을 위한 딥러닝 기본부터 초중급까지의 수업 | [이동](https://github.com/LDJWJ/DL_Basic) |
+| 🤖🎓 캐글 데이터 분석 | 캐글 입문자를 위한 캐글 데이터 분석 | [이동](https://github.com/LDJWJ/KaggleDataAnalysis) |
 | 🤖📈 ChatGPT 생성 AI 기본 클래스 | 텍스트 자연어 처리부터 생성 AI까지의 수업 | [이동](https://ldjwj.github.io/CHATGPT_AI_CLASS/) |
 | 🔬📊 여러가지 데이터 셋 분석 | 캐글 데이터 셋, 공공 데이터 셋 등의 기본 데이터 분석 | [이동](https://github.com/LDJWJ/dataAnalysis) |
 | 🔍📈 데이터 기본부터 실전프로젝트 마스터 | AI 기본 탐험하기 | [이동](https://rowan-sail-868.notion.site/596405bb93ca4ce0b343e7db617474c1?v=f00727c5997f4f0688e22d175b7bdbdd) |
