@@ -40,6 +40,7 @@
 | --- | --- | --- |  --- |  
 | url 줄이기 | react를 활용한 url 줄이기 | https://ldjwj.github.io/url-shortener/ |  --- |  
 | 사다리게임 | 사다리 게임 | [이동하기](https://ladder-game-ascend-result.lovable.app/) |  Lovable |  
+| 사다리게임 | 사다리 게임 | [이동하기](https://ldjwj.github.io/ladder_game_gemini/) |  Gemini |  
 
 ### 프로젝트 살펴보기 
 🔍 내용: 수업 중의 학생들 파일럿 프로젝트
