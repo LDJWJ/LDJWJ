@@ -49,6 +49,8 @@
 | url 줄이기 | react를 활용한 url 줄이기 | https://ldjwj.github.io/url-shortener/ |  --- |  
 | 사다리게임 | 사다리 게임 | [이동하기](https://ladder-game-ascend-result.lovable.app/) |  Lovable |  
 | 사다리게임 | 사다리 게임 | [이동하기](https://ldjwj.github.io/ladder_game_gemini/) |  Gemini |  
+| SUNO 프롬프트 생성기 | 선택된 내용을 기준으로 SUNO프롬프트를 생성한다. | [이동하기](https://v0-suno-generator-wj.vercel.app/) |  V0 |  
+
 
 ### 프로젝트 살펴보기 
 🔍 내용: 수업 중의 학생들 파일럿 프로젝트
