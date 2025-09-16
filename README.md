@@ -56,8 +56,8 @@
 🔍 내용: 수업 중의 학생들 파일럿 프로젝트
 | 기관 | 프로젝트명 | 기간 | 링크 |
 | --- | --- | --- | --- |  
-| 구름 EDU | 올인원 Pass! 인공지능 프로젝트 마스터 1, 2, 3기 | 25/03/17 ~ 25/11/08 | [이동](https://github.com/LDJWJ/Goorm_2025_ICT1234_allinOne/) |
-| 구름 EDU | ICT 2,3기 | 23/08 ~ 23/10/26 | [이동](https://github.com/LDJWJ/Goorm_2024_ICT23_allinOne) |
+| 구름 EDU | 올인원 Pass! 인공지능 프로젝트 마스터 1, 2, 3기(2년도) | 25/03/17 ~ 25/11/08 | [이동](https://github.com/LDJWJ/Goorm_2025_ICT1234_allinOne/) |
+| 구름 EDU | 올인원 Pass! 인공지능 프로젝트 마스터 2,3기(24년도) | 24/08/12 ~ 24/11/29 | [이동](https://github.com/LDJWJ/Goorm_2024_ICT23_allinOne) |
 | 구름&카카오 | 구름&카카오 23년도1기 | 23/04/24 ~ 23/05/31 | [이동](https://github.com/LDJWJ/Goorm_2023_DataCourse) |
 | 구름&카카오 | 구름&카카오 4기 | 22/10/17 ~ 22/12/09 | [이동](https://github.com/LDJWJ/Goorm_4th_DataCourse) |
 | 구름&카카오 | 구름&카카오 3기 | 22/09/05 ~ 22/11/04 | [이동](https://github.com/LDJWJ/Goorm_3rd_DataCourse) |
