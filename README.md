@@ -94,6 +94,9 @@
  * 🖼️🎹 미술관에 온 듯🎻여유롭고 클래식한 피아노 연주곡(https://www.youtube.com/watch?v=_dn5vYN2GWY)
  * 🐶🛌 편안한 강아지 음악 - 심리안정 음악(https://www.youtube.com/watch?v=kqEpePJmv4I)
 
+## 교육 문의
+- colabstart@gmail.com
+
 <!--
 **LDJWJ/LDJWJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
