@@ -58,7 +58,8 @@
 | --- | --- | --- | --- |  
 | 구름 EDU | 올인원 Pass! 인공지능 프로젝트 마스터 1, 2, 3기(2년도) | 25/03/17 ~ 25/11/08 | [이동](https://github.com/LDJWJ/Goorm_2025_ICT1234_allinOne/) |
 | 구름 EDU | 올인원 Pass! 인공지능 프로젝트 마스터 2,3기(24년도) | 24/08/12 ~ 24/11/29 | [이동](https://github.com/LDJWJ/Goorm_2024_ICT23_allinOne) |
-| 공통 | 23년도~24년도 강의 정리 | 23/04/24 ~ 23/05/31 | [이동](https://github.com/LDJWJ/Goorm_2023_DataCourse) |
+| 공통 | 24년도 단기 강의 | 24/01 ~ 24/12 | [이동](-) |
+| 공통 | 23년도 단기 강의 | 23/04/24 ~ 23/05/31 | [이동](https://github.com/LDJWJ/Goorm_2023_DataCourse) |
 | 구름&카카오 | 구름&카카오 4기 | 22/10/17 ~ 22/12/09 | [이동](https://github.com/LDJWJ/Goorm_4th_DataCourse) |
 | 구름&카카오 | 구름&카카오 3기 | 22/09/05 ~ 22/11/04 | [이동](https://github.com/LDJWJ/Goorm_3rd_DataCourse) |
 | 구름&카카오 | 구름&카카오 2기 | 22/07/04 ~ 22/08/29 | [이동](https://github.com/LDJWJ/Goorm_2nd_DataCourse) |
