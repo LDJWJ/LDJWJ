@@ -54,18 +54,18 @@
 
 ### 프로젝트 살펴보기 
 🔍 내용: 수업 중의 학생들 파일럿 프로젝트
-| 프로젝트명 | 기간 | 링크 |
-| --- | --- | --- |  
-| ICT 25년도 | 25/03/17 ~ 25/11/08 | [이동](https://github.com/LDJWJ/Goorm_2025_ICT1234_allinOne/) |
-| ICT 2,3기 | 23/08 ~ 23/10/26 | [이동](https://github.com/LDJWJ/Goorm_2024_ICT23_allinOne) |
-| 구름&카카오 23년도1기 | 23/04/24 ~ 23/05/31 | [이동](https://github.com/LDJWJ/Goorm_2023_DataCourse) |
-| 구름&카카오 4기 | 22/10/17 ~ 22/12/09 | [이동](https://github.com/LDJWJ/Goorm_4th_DataCourse) |
-| 구름&카카오 3기 | 22/09/05 ~ 22/11/04 | [이동](https://github.com/LDJWJ/Goorm_3rd_DataCourse) |
-| 구름&카카오 2기 | 22/07/04 ~ 22/08/29 | [이동](https://github.com/LDJWJ/Goorm_2nd_DataCourse) |
-| 2022년 데이터 분석 내용 정리 | - | [이동](https://github.com/LDJWJ/MyDataAnalysis_2022) |
-| 멋쟁이 사자처림 10th 데이터 실전 과정 | - | [이동](https://github.com/LDJWJ/LikeLion_10th_DataCourse) |
-| 멋쟁이 사자처림 13th 데이터 실전 과정 | - | [이동](https://github.com/LDJWJ/LikeLion_13th_DataCourse) |
-| SBA 실전 데이터 기초부터 프로젝트까지 | - | [이동](https://github.com/LDJWJ/00_SBA01_BigData) |
+| 기관 | 프로젝트명 | 기간 | 링크 |
+| --- | --- | --- | --- |  
+| 구름 EDU | 올인원 Pass! 인공지능 프로젝트 마스터 1, 2, 3기 | 25/03/17 ~ 25/11/08 | [이동](https://github.com/LDJWJ/Goorm_2025_ICT1234_allinOne/) |
+| 구름 EDU | ICT 2,3기 | 23/08 ~ 23/10/26 | [이동](https://github.com/LDJWJ/Goorm_2024_ICT23_allinOne) |
+| 구름&카카오 | 구름&카카오 23년도1기 | 23/04/24 ~ 23/05/31 | [이동](https://github.com/LDJWJ/Goorm_2023_DataCourse) |
+| 구름&카카오 | 구름&카카오 4기 | 22/10/17 ~ 22/12/09 | [이동](https://github.com/LDJWJ/Goorm_4th_DataCourse) |
+| 구름&카카오 | 구름&카카오 3기 | 22/09/05 ~ 22/11/04 | [이동](https://github.com/LDJWJ/Goorm_3rd_DataCourse) |
+| 구름&카카오 | 구름&카카오 2기 | 22/07/04 ~ 22/08/29 | [이동](https://github.com/LDJWJ/Goorm_2nd_DataCourse) |
+| 기관 | 2022년 데이터 분석 내용 정리 | - | [이동](https://github.com/LDJWJ/MyDataAnalysis_2022) |
+| 멋쟁이 사자처림 | 10th 데이터 실전 과정 | - | [이동](https://github.com/LDJWJ/LikeLion_10th_DataCourse) |
+| 멋쟁이 사자처림 | 13th 데이터 실전 과정 | - | [이동](https://github.com/LDJWJ/LikeLion_13th_DataCourse) |
+| SBA(서울 산업 진흥원) |  실전 데이터 기초부터 프로젝트까지 | - | [이동](https://github.com/LDJWJ/00_SBA01_BigData) |
 ===========
 ## 수업
 😄 [수업상태페이지](https://github.com/LDJWJ/ClassPage)
