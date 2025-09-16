@@ -56,13 +56,13 @@
 🔍 내용: 수업 중의 학생들 파일럿 프로젝트
 | 기관 | 프로젝트명 | 기간 | 링크 |
 | --- | --- | --- | --- |  
-| 구름 EDU | 올인원 Pass! 인공지능 프로젝트 마스터 1, 2, 3기(2년도) | 25/03/17 ~ 25/11/08 | [이동](https://github.com/LDJWJ/Goorm_2025_ICT1234_allinOne/) |
-| 구름 EDU | 올인원 Pass! 인공지능 프로젝트 마스터 2,3기(24년도) | 24/08/12 ~ 24/11/29 | [이동](https://github.com/LDJWJ/Goorm_2024_ICT23_allinOne) |
+| 구름 EDU | 올인원 Pass! 인공지능 프로젝트 마스터 1, 2, 3기(25년도)-각160h | 25/03/17 ~ 25/11/08 | [이동](https://github.com/LDJWJ/Goorm_2025_ICT1234_allinOne/) |
+| 구름 EDU | 올인원 Pass! 인공지능 프로젝트 마스터 2,3기(24년도)-각160h | 24/08/12 ~ 24/11/29 | [이동](https://github.com/LDJWJ/Goorm_2024_ICT23_allinOne) |
 | 공통 | 24년도 단기 세미나 및 단기 일정 강의 정리 | 24/01 ~ 24/12 | [이동](https://github.com/LDJWJ/EDU_2023_24_CourseHistory/tree/main/Lecture_2024_History) |
 | 공통 | 23년도 단기 세미나 및 단기 일정 강의 정리 | 23/01 ~ 24/12 | [이동](https://github.com/LDJWJ/EDU_2023_24_CourseHistory/tree/main/Lecture_2023_History) |
-| 구름&카카오 | 구름&카카오 4기 | 22/10/17 ~ 22/12/09 | [이동](https://github.com/LDJWJ/Goorm_4th_DataCourse) |
-| 구름&카카오 | 구름&카카오 3기 | 22/09/05 ~ 22/11/04 | [이동](https://github.com/LDJWJ/Goorm_3rd_DataCourse) |
-| 구름&카카오 | 구름&카카오 2기 | 22/07/04 ~ 22/08/29 | [이동](https://github.com/LDJWJ/Goorm_2nd_DataCourse) |
+| 구름&카카오 | 구름&카카오 4기-각160h | 22/10/17 ~ 22/12/09 | [이동](https://github.com/LDJWJ/Goorm_4th_DataCourse) |
+| 구름&카카오 | 구름&카카오 3기-각160h | 22/09/05 ~ 22/11/04 | [이동](https://github.com/LDJWJ/Goorm_3rd_DataCourse) |
+| 구름&카카오 | 구름&카카오 2기-각160h | 22/07/04 ~ 22/08/29 | [이동](https://github.com/LDJWJ/Goorm_2nd_DataCourse) |
 | 기관 | 2022년 데이터 분석 내용 정리 | - | [이동](https://github.com/LDJWJ/MyDataAnalysis_2022) |
 | 멋쟁이 사자처림 | 10th 데이터 실전 과정 | - | [이동](https://github.com/LDJWJ/LikeLion_10th_DataCourse) |
 | 멋쟁이 사자처림 | 13th 데이터 실전 과정 | - | [이동](https://github.com/LDJWJ/LikeLion_13th_DataCourse) |
