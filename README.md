@@ -58,6 +58,9 @@ https://ldjwj.github.io/mywebpage/
 | 아이디어 저장 앱만들기 | 아이디어를 저장하는 앱을 만들기 | [이동하기](https://wj-idea-note.vercel.app/) |  V0 | 
 | Game Market | 다양한 게임 - Claude 활용 | [이동하기](https://ldjwj.github.io/GameMarket/) | Claude |
 | TODO 프로그램 | 할일 리스트 기록 | [이동하기](https://ldjwj.github.io/ict_20250916_class/) | CHATGPT   |
+| AI 뉴스 브리핑 |  | [이동하기](https://getnews.lovable.app) | CHATGPT   |
+
+
 
 ### 프로젝트 살펴보기 
 🔍 내용: 수업 중의 학생들 파일럿 프로젝트
