@@ -18,6 +18,21 @@
  * 🎁 책 내용: 실습에 필요한 기본이 되는 문제
  * :tada: [해당 책으로 이동하기](https://wikidocs.net/book/7991)
 
+
+
+### 프로그램
+| 프로젝트명 | 내용 | 링크 | 구분 |
+| --- | --- | --- |  --- |  
+| url 줄이기 | react를 활용한 url 줄이기 | https://ldjwj.github.io/url-shortener/ |  --- |  
+| 사다리게임 | 사다리 게임 | [이동하기](https://ladder-game-ascend-result.lovable.app/) |  Lovable |  
+| 사다리게임 | 사다리 게임 | [이동하기](https://ldjwj.github.io/ladder_game_gemini/) |  Gemini |  
+| SUNO 프롬프트 생성기 | 선택된 내용을 기준으로 SUNO프롬프트를 생성한다. | [이동하기](https://v0-suno-generator-wj.vercel.app/) |  V0 |  
+| 아이디어 저장 앱만들기 | 아이디어를 저장하는 앱을 만들기 | [이동하기](https://wj-idea-note.vercel.app/) |  V0 | 
+| Game Market | 다양한 게임 - Claude 활용 | [이동하기](https://ldjwj.github.io/GameMarket/) | Claude |
+| TODO 프로그램 | 할일 리스트 기록 | [이동하기](https://ldjwj.github.io/ict_20250916_class/) | CHATGPT   |
+| AI 뉴스 브리핑 | Lovable로 만든 무료 뉴스 수집기 | [이동하기](https://getnews.lovable.app) | Lovable   |
+| 이미지편집 앱 | 이미지 편집 및 모자이크 기능 | [이동하기](https://ldjwj.github.io/painterapp/) | Claude Code   |
+
 ### 캐글 관련 내용 링크 [이동하기](https://github.com/LDJWJ/KaggleDataAnalysis)
 
 ## 함께하는 CLASS 
@@ -46,21 +61,6 @@
 ### 웹 페이지 - 작성중
 https://ldjwj.github.io/devportfolio123/
 https://ldjwj.github.io/mywebpage/
-
-
-### 프로그램
-| 프로젝트명 | 내용 | 링크 | 구분 |
-| --- | --- | --- |  --- |  
-| url 줄이기 | react를 활용한 url 줄이기 | https://ldjwj.github.io/url-shortener/ |  --- |  
-| 사다리게임 | 사다리 게임 | [이동하기](https://ladder-game-ascend-result.lovable.app/) |  Lovable |  
-| 사다리게임 | 사다리 게임 | [이동하기](https://ldjwj.github.io/ladder_game_gemini/) |  Gemini |  
-| SUNO 프롬프트 생성기 | 선택된 내용을 기준으로 SUNO프롬프트를 생성한다. | [이동하기](https://v0-suno-generator-wj.vercel.app/) |  V0 |  
-| 아이디어 저장 앱만들기 | 아이디어를 저장하는 앱을 만들기 | [이동하기](https://wj-idea-note.vercel.app/) |  V0 | 
-| Game Market | 다양한 게임 - Claude 활용 | [이동하기](https://ldjwj.github.io/GameMarket/) | Claude |
-| TODO 프로그램 | 할일 리스트 기록 | [이동하기](https://ldjwj.github.io/ict_20250916_class/) | CHATGPT   |
-| AI 뉴스 브리핑 | Lovable로 만든 무료 뉴스 수집기 | [이동하기](https://getnews.lovable.app) | Lovable   |
-
-
 
 ### 프로젝트 살펴보기 
 🔍 내용: 수업 중의 학생들 파일럿 프로젝트
