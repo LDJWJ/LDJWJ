@@ -23,6 +23,7 @@
 ### 프로그램
 | 프로젝트명 | 내용 | 링크 | 구분 |
 | --- | --- | --- |  --- |  
+| AI HUB | 프로그램 리스트 모음 | https://aitoolhub-wj.netlify.app/ | --- |
 | url 줄이기 | react를 활용한 url 줄이기 | https://ldjwj.github.io/url-shortener/ |  --- |  
 | 사다리게임 | 사다리 게임 | [이동하기](https://ladder-game-ascend-result.lovable.app/) |  Lovable |  
 | 사다리게임 | 사다리 게임 | [이동하기](https://ldjwj.github.io/ladder_game_gemini/) |  Gemini |  
