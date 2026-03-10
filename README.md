@@ -25,8 +25,6 @@
 | --- | --- | --- |  --- |  
 | AI HUB | 프로그램 리스트 모음 | https://aitoolhub-wj.netlify.app/ | --- |
 | url 줄이기 | react를 활용한 url 줄이기 | https://ldjwj.github.io/url-shortener/ |  --- |  
-| 사다리게임 | 사다리 게임 | [이동하기](https://ladder-game-ascend-result.lovable.app/) |  Lovable |  
-| 사다리게임 | 사다리 게임 | [이동하기](https://ldjwj.github.io/ladder_game_gemini/) |  Gemini |  
 | SUNO 프롬프트 생성기 | 선택된 내용을 기준으로 SUNO프롬프트를 생성한다. | [이동하기](https://v0-suno-generator-wj.vercel.app/) |  V0 |  
 | 아이디어 저장 앱만들기 | 아이디어를 저장하는 앱을 만들기 | [이동하기](https://wj-idea-note.vercel.app/) |  V0 | 
 | Game Market | 다양한 게임 - Claude 활용 | [이동하기](https://ldjwj.github.io/GameMarket/) | Claude |
