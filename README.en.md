@@ -1,5 +1,5 @@
 <p align="center">
-  🇰🇷 <a href="README.md">한국어</a> | 🇺🇸 <b>English</b> | 🇯🇵 <a href="README.ja.md">日本語</a>
+  🇰🇷 <a href="README.md">한국어</a> | 🇺🇸 <b>English</b> | 🇯🇵 <a href="README.ja.md">日本語</a> | 🇨🇳 <a href="README.zh.md">简体中文</a>
 </p>
 
 ## Daniel's Footprints
@@ -41,20 +41,20 @@
 | AI News Briefing | Free news collector made with Lovable | [Go](https://getnews.lovable.app) | Lovable   |
 | Image Editor | Image editing and mosaic (blur) tools | [Go](https://ldjwj.github.io/painterapp/) | Claude Code   |
 
-### Kaggle resources [Go](https://github.com/LDJWJ/KaggleDataAnalysis) 🇰🇷
+### Kaggle resources [Go](https://github.com/LDJWJ/KaggleDataAnalysis/blob/main/README.en.md) 🇰🇷
 
 ## Classes (all 🇰🇷)
 
 | Class | Description | Link |
 | --- | --- | --- |
-| 🐣📘 Getting Started with Python | Python fundamentals for absolute beginners | [Go](https://github.com/LDJWJ/CLASS_PYTHON_START) |
-| 📚🔧 Getting Started with Python Libraries | Python fundamentals for working with libraries | [Go](https://github.com/LDJWJ/CLASS_PY_LIB_START) |
-| 🚀📈 Python Libraries Level Up | Leveling up with Python libraries | [Go](https://github.com/LDJWJ/CLASS_PY_LIB_LEVELUP) |
-| 📊📈 Machine Learning | Machine learning from the basics to beginner–intermediate level | [Go](https://github.com/LDJWJ/ML_Basic_Class) |
-| 🤖🎓 Deep Learning Basics | Deep learning from the basics to beginner–intermediate level | [Go](https://github.com/LDJWJ/DL_Basic) |
-| 🤖🎓 Kaggle Data Analysis | Kaggle data analysis for newcomers | [Go](https://github.com/LDJWJ/KaggleDataAnalysis) |
-| 🤖📈 ChatGPT & Generative AI Basics | From text NLP to generative AI | [Go](https://ldjwj.github.io/CHATGPT_AI_CLASS/) |
-| 🔬📊 Analyzing Various Datasets | Basic analysis of Kaggle datasets, public datasets, and more | [Go](https://github.com/LDJWJ/dataAnalysis) |
+| 🐣📘 Getting Started with Python | Python fundamentals for absolute beginners | [Go](https://github.com/LDJWJ/CLASS_PYTHON_START/blob/main/README.en.md) |
+| 📚🔧 Getting Started with Python Libraries | Python fundamentals for working with libraries | [Go](https://github.com/LDJWJ/CLASS_PY_LIB_START/blob/main/README.en.md) |
+| 🚀📈 Python Libraries Level Up | Leveling up with Python libraries | [Go](https://github.com/LDJWJ/CLASS_PY_LIB_LEVELUP/blob/main/README.en.md) |
+| 📊📈 Machine Learning | Machine learning from the basics to beginner–intermediate level | [Go](https://github.com/LDJWJ/ML_Basic_Class/blob/main/README.en.md) |
+| 🤖🎓 Deep Learning Basics | Deep learning from the basics to beginner–intermediate level | [Go](https://github.com/LDJWJ/DL_Basic/blob/main/README.en.md) |
+| 🤖🎓 Kaggle Data Analysis | Kaggle data analysis for newcomers | [Go](https://github.com/LDJWJ/KaggleDataAnalysis/blob/main/README.en.md) |
+| 🤖📈 ChatGPT & Generative AI Basics | From text NLP to generative AI | [Go](https://ldjwj.github.io/CHATGPT_AI_CLASS/README.en.html) |
+| 🔬📊 Analyzing Various Datasets | Basic analysis of Kaggle datasets, public datasets, and more | [Go](https://github.com/LDJWJ/dataAnalysis/blob/main/README.en.md) |
 | 🔍📈 Data: From Basics to Real-World Projects | Exploring the fundamentals of AI | [Go](https://rowan-sail-868.notion.site/596405bb93ca4ce0b343e7db617474c1?v=f00727c5997f4f0688e22d175b7bdbdd) |
 | 🎥🌟 Getting Started on YouTube | First steps for new YouTubers | [Go](https://rowan-sail-868.notion.site/14a45e9c22194f9eaae3626d3015eab3?v=ce4b7a4d61454c349e33388458f9d77d) |
 
@@ -93,7 +93,7 @@ https://ldjwj.github.io/mywebpage/
 
 ### Hands-on Data Analysis
 📊 About: Taking a variety of datasets from basic EDA to baseline models 🇰🇷
-😄 [Go to the repository](https://github.com/LDJWJ/dataAnalysis)
+😄 [Go to the repository](https://github.com/LDJWJ/dataAnalysis/blob/main/README.en.md)
 
 ### Curated Resources
 🌱 About: Learning links, dataset URLs, competition info, and more 🇰🇷 <br>

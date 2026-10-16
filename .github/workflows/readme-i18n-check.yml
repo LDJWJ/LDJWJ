@@ -30,7 +30,7 @@ jobs:
           if ! echo "$changed" | grep -qx "README.md"; then
             echo "README.md not changed."; exit 0
           fi
-          for f in README.en.md README.ja.md; do
+          for f in README.en.md README.ja.md README.zh.md; do
             if ! echo "$changed" | grep -qx "$f"; then
               echo "::warning file=$f::README.md was updated but $f was not. Please update the translation."
             fi
