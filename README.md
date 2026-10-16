@@ -1,4 +1,11 @@
+<p align="center">
+  🇰🇷 <b>한국어</b> | 🇺🇸 <a href="README.en.md">English</a> | 🇯🇵 <a href="README.ja.md">日本語</a>
+</p>
+
 ## Daniel's 흔적
+
+> 👋 데이터 분석·머신러닝·생성 AI를 가르치는 강사이자, AI·데이터 분야 도서의 역자·저자입니다.
+> 파이썬 기초부터 캐글, 딥러닝, ChatGPT 활용까지 수업 자료와 프로젝트를 이곳에 모아 두었습니다.
 
 ## [책] 데이터가 뛰어노는 AI 놀이터, 캐글
  * 📚 내용: 머신러닝 초보에서 캐글 초중급으로 가기 위한 데이터 분석 서적(번역)
@@ -105,18 +112,3 @@ https://ldjwj.github.io/mywebpage/
 
 ## 교육 문의
 - colabstart@gmail.com
-
-<!--
-**LDJWJ/LDJWJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

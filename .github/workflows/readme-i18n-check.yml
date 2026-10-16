@@ -1,0 +1,37 @@
+name: README translation sync check
+
+on:
+  push:
+    paths: ["README*.md"]
+  pull_request:
+    paths: ["README*.md"]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Warn if README.md changed without translations
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            base="${{ github.event.pull_request.base.sha }}"
+          else
+            base="${{ github.event.before }}"
+          fi
+          if [ -z "$base" ] || ! git cat-file -e "$base^{commit}" 2>/dev/null; then
+            base="$(git rev-parse HEAD~1 2>/dev/null || true)"
+          fi
+          [ -z "$base" ] && { echo "No base commit; skipping."; exit 0; }
+
+          changed="$(git diff --name-only "$base" HEAD)"
+          echo "$changed"
+          if ! echo "$changed" | grep -qx "README.md"; then
+            echo "README.md not changed."; exit 0
+          fi
+          for f in README.en.md README.ja.md; do
+            if ! echo "$changed" | grep -qx "$f"; then
+              echo "::warning file=$f::README.md was updated but $f was not. Please update the translation."
+            fi
+          done
