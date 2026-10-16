@@ -85,7 +85,7 @@ https://ldjwj.github.io/mywebpage/
 | LIKELION | 13期 データ実践コース | - | [開く](https://github.com/LDJWJ/LikeLion_13th_DataCourse) |
 | SBA（ソウル産業振興院） | 実践データ：基礎からプロジェクトまで | - | [開く](https://github.com/LDJWJ/00_SBA01_BigData) |
 ===========
-## 授業
+## 授業ステータス
 😄 [授業ステータスページ](https://github.com/LDJWJ/ClassPage) 🇰🇷
 
 ## ChatGPTを活用したミニプロジェクト

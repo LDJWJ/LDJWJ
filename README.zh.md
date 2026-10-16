@@ -10,10 +10,10 @@
 > 🇰🇷 = 链接的资料为韩语。各课程仓库提供英文 README，课程页面可借助浏览器（如 Chrome）的自动翻译阅读。
 
 ## [图书] 数据尽情玩耍的 AI 乐园：Kaggle（韩文译本）
- * 📚 简介：帮助机器学习初学者成长为 Kaggle 初中级选手的数据分析图书（翻译）🇰🇷
+ * 📚 简介：帮助机器学习初学者成长为 Kaggle 中级水平选手的数据分析图书（翻译）🇰🇷
  * 😄 安装说明与书中源代码：[前往](https://github.com/LDJWJ/kagglebook)
 
-## [图书] 从零开始：用 Python 玩转 ChatGPT 与 AI（《OpenAI GPT for Python Developers》韩文版）
+## [图书] 扎实入门：用 Python 玩转 ChatGPT 与 AI（《OpenAI GPT for Python Developers》韩文版）
  * 📚 简介：从提示工程到语音识别、图像生成、聊天机器人和 Web 服务（翻译、审校及部分撰写）🇰🇷
  * 😄 安装说明与书中源代码：[前往](https://github.com/LDJWJ/OpenAIGPTForPythonDevelopersFiles)
  * 购书链接：[yes24](https://www.yes24.com/product/goods/143895983) [教保文库](https://product.kyobobook.co.kr/detail/S000216110478) [Hanbit Media](https://www.hanbit.co.kr/store/books/look.php?p_code=B3097025728)
@@ -50,8 +50,8 @@
 | 🐣📘 Python 入门 | 面向零基础学习者的 Python 基础课 | [前往](https://github.com/LDJWJ/CLASS_PYTHON_START/blob/main/README.en.md) |
 | 📚🔧 Python 库入门 | 学习使用 Python 库的基础课 | [前往](https://github.com/LDJWJ/CLASS_PY_LIB_START/blob/main/README.en.md) |
 | 🚀📈 Python 库进阶 | Python 库的进阶课程 | [前往](https://github.com/LDJWJ/CLASS_PY_LIB_LEVELUP/blob/main/README.en.md) |
-| 📊📈 机器学习 | 从机器学习基础到初中级水平的课程 | [前往](https://github.com/LDJWJ/ML_Basic_Class/blob/main/README.en.md) |
-| 🤖🎓 深度学习基础 | 从深度学习基础到初中级水平的课程 | [前往](https://github.com/LDJWJ/DL_Basic/blob/main/README.en.md) |
+| 📊📈 机器学习 | 从机器学习基础到中级水平的课程 | [前往](https://github.com/LDJWJ/ML_Basic_Class/blob/main/README.en.md) |
+| 🤖🎓 深度学习基础 | 从深度学习基础到中级水平的课程 | [前往](https://github.com/LDJWJ/DL_Basic/blob/main/README.en.md) |
 | 🤖🎓 Kaggle 数据分析 | 面向 Kaggle 新手的数据分析 | [前往](https://github.com/LDJWJ/KaggleDataAnalysis/blob/main/README.en.md) |
 | 🤖📈 ChatGPT 与生成式 AI 基础 | 从文本自然语言处理到生成式 AI | [前往](https://ldjwj.github.io/CHATGPT_AI_CLASS/README.en.html) |
 | 🔬📊 多种数据集分析 | Kaggle 数据集、公共数据集等的基础分析 | [前往](https://github.com/LDJWJ/dataAnalysis/blob/main/README.en.md) |
@@ -74,18 +74,18 @@ https://ldjwj.github.io/mywebpage/
 🔍 简介：学员在课程中完成的试点项目（均为 🇰🇷）
 | 机构 | 课程 | 时间 | 链接 |
 | --- | --- | --- | --- |
-| goorm EDU | 一站式通关！AI 项目大师 第 1–3 期（2025 年），每期 160 小时 | 25/03/17 ~ 25/11/08 | [前往](https://github.com/LDJWJ/Goorm_2025_ICT1234_allinOne/) |
-| goorm EDU | 一站式通关！AI 项目大师 第 2–3 期（2024 年），每期 160 小时 | 24/08/12 ~ 24/11/29 | [前往](https://github.com/LDJWJ/Goorm_2024_ICT23_allinOne) |
+| goorm EDU | All-in-One Pass! AI 项目大师 第 1–3 期（2025 年），每期 160 小时 | 25/03/17 ~ 25/11/08 | [前往](https://github.com/LDJWJ/Goorm_2025_ICT1234_allinOne/) |
+| goorm EDU | All-in-One Pass! AI 项目大师 第 2–3 期（2024 年），每期 160 小时 | 24/08/12 ~ 24/11/29 | [前往](https://github.com/LDJWJ/Goorm_2024_ICT23_allinOne) |
 | 综合 | 2023–2024 年研讨会及短期课程整理 | 23/01 ~ 24/12 | [前往](https://github.com/LDJWJ/EDU_2023_24_CourseHistory/tree/main/Lecture_2023_History) |
 | goorm & Kakao | goorm & Kakao 第 4 期，160 小时 | 22/10/17 ~ 22/12/09 | [前往](https://github.com/LDJWJ/Goorm_4th_DataCourse) |
 | goorm & Kakao | goorm & Kakao 第 3 期，160 小时 | 22/09/05 ~ 22/11/04 | [前往](https://github.com/LDJWJ/Goorm_3rd_DataCourse) |
 | goorm & Kakao | goorm & Kakao 第 2 期，160 小时 | 22/07/04 ~ 22/08/29 | [前往](https://github.com/LDJWJ/Goorm_2nd_DataCourse) |
-| 综合 | 2022 年数据分析内容整理 | - | [前往](https://github.com/LDJWJ/MyDataAnalysis_2022) |
+| 机构 | 2022 年数据分析内容整理 | - | [前往](https://github.com/LDJWJ/MyDataAnalysis_2022) |
 | LIKELION | 第 10 期 数据实战课程 | - | [前往](https://github.com/LDJWJ/LikeLion_10th_DataCourse) |
 | LIKELION | 第 13 期 数据实战课程 | - | [前往](https://github.com/LDJWJ/LikeLion_13th_DataCourse) |
 | SBA（首尔产业振兴院） | 实战数据：从基础到项目 | - | [前往](https://github.com/LDJWJ/00_SBA01_BigData) |
 ===========
-## 课程
+## 课程状态
 😄 [课程状态页面](https://github.com/LDJWJ/ClassPage) 🇰🇷
 
 ## 用 ChatGPT 做的小项目

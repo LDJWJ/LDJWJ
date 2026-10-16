@@ -23,7 +23,7 @@
 </figure>
 
 
-## [Book] 300 Essential Exercises: From Python Basics to Intro Deep Learning (work in progress)
+## [Book] 300 Basic Exercises: From Python Basics to Intro Deep Learning (work in progress)
  * 🎁 About: Foundational exercises you need for hands-on practice 🇰🇷
  * :tada: [Go to the book](https://wikidocs.net/book/7991)
 
@@ -76,16 +76,16 @@ https://ldjwj.github.io/mywebpage/
 | --- | --- | --- | --- |
 | goorm EDU | All-in-One Pass! AI Project Master, cohorts 1–3 (2025), 160h each | 25/03/17 ~ 25/11/08 | [Go](https://github.com/LDJWJ/Goorm_2025_ICT1234_allinOne/) |
 | goorm EDU | All-in-One Pass! AI Project Master, cohorts 2–3 (2024), 160h each | 24/08/12 ~ 24/11/29 | [Go](https://github.com/LDJWJ/Goorm_2024_ICT23_allinOne) |
-| Various | Seminars and short courses, 2023–2024 | 23/01 ~ 24/12 | [Go](https://github.com/LDJWJ/EDU_2023_24_CourseHistory/tree/main/Lecture_2023_History) |
+| General | Seminars and short courses, 2023–2024 | 23/01 ~ 24/12 | [Go](https://github.com/LDJWJ/EDU_2023_24_CourseHistory/tree/main/Lecture_2023_History) |
 | goorm & Kakao | goorm & Kakao cohort 4, 160h | 22/10/17 ~ 22/12/09 | [Go](https://github.com/LDJWJ/Goorm_4th_DataCourse) |
 | goorm & Kakao | goorm & Kakao cohort 3, 160h | 22/09/05 ~ 22/11/04 | [Go](https://github.com/LDJWJ/Goorm_3rd_DataCourse) |
 | goorm & Kakao | goorm & Kakao cohort 2, 160h | 22/07/04 ~ 22/08/29 | [Go](https://github.com/LDJWJ/Goorm_2nd_DataCourse) |
-| Various | 2022 data analysis notes | - | [Go](https://github.com/LDJWJ/MyDataAnalysis_2022) |
+| Organization | 2022 data analysis notes | - | [Go](https://github.com/LDJWJ/MyDataAnalysis_2022) |
 | LIKELION | 10th cohort, hands-on data course | - | [Go](https://github.com/LDJWJ/LikeLion_10th_DataCourse) |
 | LIKELION | 13th cohort, hands-on data course | - | [Go](https://github.com/LDJWJ/LikeLion_13th_DataCourse) |
 | SBA (Seoul Business Agency) | Practical data: from basics to projects | - | [Go](https://github.com/LDJWJ/00_SBA01_BigData) |
 ===========
-## Classes
+## Class Status
 😄 [Class status page](https://github.com/LDJWJ/ClassPage) 🇰🇷
 
 ## Mini Projects with ChatGPT
