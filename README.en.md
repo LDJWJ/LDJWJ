@@ -66,9 +66,8 @@
 | 🐣📘 Portfolio Example | Portfolio example 2 | [Go](https://ldjwj.github.io/devportfolio123/) |
 
 
-### Web pages (work in progress)
-https://ldjwj.github.io/devportfolio123/
-https://ldjwj.github.io/mywebpage/
+### Teaching homepage (Korean)
+[Teaching, public course materials, and inquiries](https://ldjwj.github.io/mywebpage/)
 
 ### Projects
 🔍 About: Pilot projects built by students during my courses (all 🇰🇷)

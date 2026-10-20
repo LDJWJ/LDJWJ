@@ -66,9 +66,8 @@
 | 🐣📘 ポートフォリオ例 | ポートフォリオ例2 | [開く](https://ldjwj.github.io/devportfolio123/) |
 
 
-### Webページ（作成中）
-https://ldjwj.github.io/devportfolio123/
-https://ldjwj.github.io/mywebpage/
+### 講師紹介ページ（韓国語）
+[講義・公開教材・お問い合わせ](https://ldjwj.github.io/mywebpage/)
 
 ### プロジェクト紹介
 🔍 内容：授業中に受講生が取り組んだパイロットプロジェクト（すべて🇰🇷）

@@ -6,6 +6,8 @@
 
 > 👋 데이터 분석·머신러닝·생성 AI를 가르치는 강사이자, AI·데이터 분야 도서의 역자·저자입니다.
 > 파이썬 기초부터 캐글, 딥러닝, ChatGPT 활용까지 수업 자료와 프로젝트를 이곳에 모아 두었습니다.
+>
+> 🌐 [강의·교육 소개 페이지](https://ldjwj.github.io/mywebpage/) · [머신러닝 교재](https://ldjwj.github.io/ML_Basic_Class/?lang=ko) · [딥러닝 교재](https://ldjwj.github.io/DL_Basic/) · [생성형 AI 교재](https://ldjwj.github.io/CHATGPT_AI_CLASS/)
 
 ## [책] 데이터가 뛰어노는 AI 놀이터, 캐글
  * 📚 내용: 머신러닝 초보에서 캐글 초중급으로 가기 위한 데이터 분석 서적(번역)
@@ -64,9 +66,8 @@
 | 🐣📘 포트폴리오 예제 | 포트폴리오 예제2 | [이동](https://ldjwj.github.io/devportfolio123/) |
 
 
-### 웹 페이지 - 작성중
-https://ldjwj.github.io/devportfolio123/
-https://ldjwj.github.io/mywebpage/
+### 강사 소개 홈페이지
+[강의 분야·공개 교재·문의 안내](https://ldjwj.github.io/mywebpage/)
 
 ### 프로젝트 살펴보기 
 🔍 내용: 수업 중의 학생들 파일럿 프로젝트

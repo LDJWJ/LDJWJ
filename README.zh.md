@@ -66,9 +66,8 @@
 | 🐣📘 作品集示例 | 作品集示例 2 | [前往](https://ldjwj.github.io/devportfolio123/) |
 
 
-### 网页（制作中）
-https://ldjwj.github.io/devportfolio123/
-https://ldjwj.github.io/mywebpage/
+### 讲师介绍页（韩文）
+[课程、公开教材与联系](https://ldjwj.github.io/mywebpage/)
 
 ### 项目展示
 🔍 简介：学员在课程中完成的试点项目（均为 🇰🇷）
